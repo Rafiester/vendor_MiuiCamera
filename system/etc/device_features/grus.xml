@@ -373,7 +373,7 @@
     <!--whether support freeform mode in game mode-->
     <bool name="support_freeform_reply">true</bool>
     <!-- Support ARCore, This feature is subjected to change if google defines a standard feature.-->
-    <bool name="support_ar_core">false</bool>
+    <bool name="support_ar_core">true</bool>
     <!--wether support ime xiaoai voice input-->
     <bool name="surpport_ime_xiaoai_voice">true</bool>
     <bool name="support_screen_light">true</bool>
