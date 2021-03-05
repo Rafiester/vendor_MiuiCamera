@@ -46,6 +46,7 @@ PRODUCT_COPY_FILES += \
     $(VENDOR_PATH)/system/lib64/libmorpho_memory_allocator.so:system/lib64/libmorpho_memory_allocator.so \
     $(VENDOR_PATH)/system/lib64/libmorpho_panorama.so:system/lib64/libmorpho_panorama.so \
     $(VENDOR_PATH)/system/lib64/libmorpho_panorama_gp.so:system/lib64/libmorpho_panorama_gp.so \
+    $(VENDOR_PATH)/system/etc/device_features/mido.xml:system/etc/device_features/mido.xml \
 
 PRODUCT_PACKAGES += \
     MiuiCamera
